@@ -17,9 +17,9 @@ second: 'numeric'
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['17608914335'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['6282160268332','6282128475388'] // Put your number here
+global.mods = ['6282160268332'] // Want some help?
+global.prems = ['6282160268332','6282128475388'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -45,17 +45,17 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
-  'https://api.xteam.xyz': 'apikeymu',
+  // 'https://website': '9OnpF85M'
+  'https://melcanz.com': '9OnpF85M',
+  'https://api.xteam.xyz': 'cristian9407',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://zekais-api.herokuapp.com': 'Wu9udlgj',
+  'https://api.lolhuman.xyz': '8f95a2523597e53f0af39585',
 }
 //cari apikey sendiri ya gaes yak
 
@@ -72,11 +72,11 @@ ig: senpai_chan_gemoy`
 global.wm = 'Ｍａｒｉｎ－ＭＤ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
+global.media = 'https://telegra.ph/file/203df94949648e4588f66.png'
 global.instagram = 'https://instagram.com/senpai_chan_gemoy'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.wait = '_*Memproses...*_'
+global.eror = '_*Error.. Terjadi Kesalahan!*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
